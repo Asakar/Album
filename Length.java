@@ -1,5 +1,3 @@
-package Question2;
-
 public class Length {
 
     private int minutes;
